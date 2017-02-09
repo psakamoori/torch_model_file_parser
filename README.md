@@ -12,7 +12,7 @@ This helps in analyzing work loads on VPU's
 # Script
 Python t7_parser.py
 
-# Sample Output of nn4.small2.v1.t7
+# Sample Output when run on nn4.small2.v1.t7
 
 nn.SpatialConvolutionMM(3 -> 64, 7x7, 2,2, 3,3)
 
