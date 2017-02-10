@@ -6,7 +6,7 @@ How to use
   Replace nn4.samll2.v1.t7 with any of the torch pre-trained trained   
   model file (t7) 						       
 Pre-requisites:						       
-  Machine with lua, torch and supporting Luarocks isntalled           
+  Machine with lua, torch and supporting Luarocks installed           
  Ref: www.torch.ch on how to install                                  
 ]]--
 
